@@ -1,0 +1,12 @@
+.stats{
+    background: linear-gradient(to bottom,
+    rgb(209, 209, 224),
+    rgb(83, 83, 121),
+    rgb(31, 31, 46)
+    );
+    margin: 200px 0px;
+}
+
+textarea{
+    resize: none;
+}
